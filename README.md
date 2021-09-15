@@ -1,14 +1,16 @@
-# Simulations used in Mas e Braga et al. (2021) "Nunataks as barriers to ice flow: implications for palaeo ice-sheet reconstructions"
+# Nunatak modelling
+
+Simulations used in Mas e Braga et al. (2021) "Nunataks as barriers to ice flow: implications for palaeo ice-sheet reconstructions"
 
 Cheatsheet of the naming of all runs presented in the main text and supplementary material
 
--Folder `SymIceCap` refers to all irregular mesh simulations
+- Folder `SymIceCap` refers to all irregular mesh simulations
     - subfolder `main` contains experiments presented in the main text
     - subfolder `supplementary` contains experiments presented in the supplementary material
     - subfolder `InputFiles` contains the LR04 curve used to scale the SMB in all experiments. It also contains a scaled version of GRIP and Dome Fuji (DF)
--Folder `RegIceCap` refers to all regular mesh simulations
+- Folder `RegIceCap` refers to all regular mesh simulations
 
-
+Note that the ice flow model Úa needs to be installed, these are just the configuration files for each model run!
 
 ## Base run codes: format `{AAA}0[xy][*]n`
 - `AAA` can either be `spn` (spinup), `dml` (Dronning Maud Land), `tam` (Transantarctic Mountains), or `thw` (Thwaites)
