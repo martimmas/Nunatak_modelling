@@ -1,5 +1,7 @@
 # Nunatak modelling
 
+[![DOI](https://zenodo.org/badge/406751573.svg)](https://zenodo.org/badge/latestdoi/406751573)
+
 Simulations used in Mas e Braga et al. (2021) "Nunataks as barriers to ice flow: implications for palaeo ice-sheet reconstructions"
 
 Cheatsheet of the naming of all runs presented in the main text and supplementary material
